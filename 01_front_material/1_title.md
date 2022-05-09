@@ -1,5 +1,4 @@
-\newcommand\titleLineOne{Mașina Arduino}
-\newcommand\titleLineTwo{(I don't want to walk to the shops)}
+\newcommand\titleLineOne{Mașina Arduino evitare obstacole}
 \newcommand\thesisAuthor{Spătaru Radu}
 \newcommand\supervisor{Marius Dobrea}
 \newcommand\degree{Automatică si Informatică Aplicată}
@@ -20,7 +19,6 @@
         
         \vspace{1.5cm}
  
-        Submitted in part fulfilment for the degree of
         \\
         \large{\textsc{
         \degree
