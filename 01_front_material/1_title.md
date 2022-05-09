@@ -1,11 +1,11 @@
-\newcommand\titleLineOne{Why is there no peanut butter in the fridge}
+\newcommand\titleLineOne{Mașina Arduino}
 \newcommand\titleLineTwo{(I don't want to walk to the shops)}
-\newcommand\thesisAuthor{Charlotte Smith}
-\newcommand\supervisor{Dr. Matt Smith}
-\newcommand\degree{B.Sc. (Hons) in Science in Computing}
-\newcommand\thesisYear{2020}
-\newcommand\institution{TU Dublin}
-\newcommand\address{Dublin, Ireland}
+\newcommand\thesisAuthor{Spătaru Radu}
+\newcommand\supervisor{Marius Dobrea}
+\newcommand\degree{Automatică si Informatică Aplicată}
+\newcommand\thesisYear{2022}
+\newcommand\institution{Universitatea Tehnică de Construcții București}
+\newcommand\address{București, România}
 \begin{titlepage}
     \begin{center}
     
